@@ -1,7 +1,9 @@
-LINK DRIVE RAW DATASET "Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics" :
+"Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics"
+
+[STEP 1] USE THIS LINK DRIVE CONTAINING RAW DATASET FOR "Segmentasi_Ringworm.ipynb" :
 https://drive.google.com/drive/folders/1Yx9Q53DPpq9qDSJFPgDQ2xX2B-di9XjS?usp=sharing
 
-LINK DRIVE FINAL DATASET COMBINED WITH SEGMENTATION "Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics" :
+[STEP 2] USE THIS LINK DRIVE CONTAINING FINAL DATASET COMBINED WITH SEGMENTATION FOR "dog_skin_disease_pred.ipnyb" :
 https://drive.google.com/drive/folders/1DkTKkC-1n2C0c5hb0Bm0hILIqvz6JbKl?usp=sharing
 
 LINK SOURCE DATASET :
