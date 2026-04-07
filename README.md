@@ -1,11 +1,8 @@
-LINK DRIVE RAW DATASET MACHINE LEARNING GROUP 3 :
+LINK DRIVE RAW DATASET "Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics" :
 https://drive.google.com/drive/folders/1Yx9Q53DPpq9qDSJFPgDQ2xX2B-di9XjS?usp=sharing
 
-LINK DRIVE DATASET AKHIR YANG SUDAH DIOLAH DENGAN TAMBAHAN SEGMENTASI MACHINE LEARNING GROUP 3 :
+LINK DRIVE FINAL DATASET COMBINED WITH SEGMENTATION "Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics" :
 https://drive.google.com/drive/folders/1DkTKkC-1n2C0c5hb0Bm0hILIqvz6JbKl?usp=sharing
-
-LINK FIGURE TERPISAH SESUAI KETENTUAN JURNAL MACHINE LEARNING GROUP 3 :
-https://drive.google.com/drive/folders/1GbM1S8-tuxp4mkQUwMnE6nWLgdfMXh7u?usp=drive_link
 
 LINK SOURCE DATASET :
 - https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset
