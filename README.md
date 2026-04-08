@@ -1,6 +1,6 @@
 "Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics"
 
-[STEP 1] USE THIS LINK DRIVE CONTAINING RAW DATASET FOR "Segmentasi_Ringworm.ipynb" :
+[STEP 1] USE THIS LINK DRIVE CONTAINING RAW DATASET. USE ONLY THE RINGWORM CLASS/FOLDER FOR "Segmentation_Ringworm.ipynb" :
 https://drive.google.com/drive/folders/1Yx9Q53DPpq9qDSJFPgDQ2xX2B-di9XjS?usp=sharing
 
 [STEP 2] USE THIS LINK DRIVE CONTAINING FINAL DATASET COMBINED WITH SEGMENTATION FOR "dog_skin_disease_pred.ipnyb" :
