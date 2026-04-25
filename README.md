@@ -3,8 +3,8 @@
 
 
 
-
-        
+<br>
+<br>
 **DESCRIPTION :**
 This repository contains the complete implementation of a deep learning pipeline for detecting six types of canine skin diseases using image-based classification.
 The proposed framework combines Transfer Learning using Convolutional Neural Networks (CNN), Image Segmentation using Attention U-Net, Ensemble Learning using Stacking, and Explainability using Grad-CAM.
@@ -12,7 +12,8 @@ The pipeline is designed to produce a veterinary diagnostic support system that 
 This work supports accessible and automated veterinary dermatology diagnostics, especially for environments with limited access to veterinary specialists.
 
 
-
+<br>
+<br>
 **DATASET INFORMATION :**
 The dataset was collected from multiple public sources including Kaggle and Roboflow Universe.
 
@@ -59,7 +60,8 @@ Data Processing Summary
   Testing Set: 15%
 
 
-
+<br>
+<br>
 **CODE INFORMATION :**
 
 This repository contains two main notebooks:
@@ -119,7 +121,8 @@ Final test accuracy:
 91.0%
 
 
-
+<br>
+<br>
 **USAGE INSTRUCTIONS :**
 Step 1 — Ringworm Segmentation
 
@@ -194,7 +197,8 @@ pip install kaggle
 
 pip install roboflow
 
-
+<br>
+<br>
 **METHODOLOGY :**
 
 This study follows a structured Machine Learning Model Pipeline consisting of six major stages.
@@ -227,7 +231,8 @@ This study follows a structured Machine Learning Model Pipeline consisting of si
 This methodology ensures robust, explainable, and clinically meaningful predictions for veterinary diagnostics.
 
 
-
+<br>
+<br>
 **CITATIONS :**
 
 [1] D. G. O’Neill, H. James, D. C. Brodbelt, D. B. Church, C. Pegram, Prevalence of commonly diagnosed disorders in uk dogs under primary veterinary care: Results and applications, BMC Veterinary Research 17 (2021). doi:10.1186/s12917-021-02775-3.
