@@ -10,12 +10,11 @@ This work supports accessible and automated veterinary dermatology diagnostics, 
 The dataset was collected from multiple public sources including Kaggle and Roboflow Universe.
 
 PRIMARY DATASET SOURCES :
-Kaggle
-
+Kaggle :
 https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset
 https://www.kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset
 
-Roboflow Universe
+Roboflow Universe :
 https://universe.roboflow.com/dog-skin-disease-dermatosis/dog-skin-disease-dataset
 https://universe.roboflow.com/kaivlya/animal-skin-disease-vb2io
 
@@ -26,7 +25,7 @@ Number of classes: 6 canine skin diseases
 Image format: JPG / PNG
 Disease Classes
 
-The final dataset contains six diagnostic categories of canine skin diseases, including:
+The final dataset contains six diagnostic categories of canine skin diseases, including :
 - Ringworm
 - Demodicosis
 - Dermatitis
@@ -193,6 +192,7 @@ This study follows a structured Machine Learning Model Pipeline consisting of si
 This methodology ensures robust, explainable, and clinically meaningful predictions for veterinary diagnostics.
 
 **CITATIONS :**
+
 [1] D. G. O’Neill, H. James, D. C. Brodbelt, D. B. Church, C. Pegram, Prevalence of commonly diagnosed disorders in uk dogs under primary veterinary care: Results and applications, BMC Veterinary Research 17 (2021). doi:10.1186/s12917-021-02775-3.
 
 [2] A. Zahri, Y. Zair, R. Jawabri, S. Elhansa, Y. Lahlou, M. Ziyadi, M. Aouissi, M. Elhachimi, Survey on dermatological disorders of dogs during 2020–2022 in rabat, mo- rocco, World Veterinary Journal 14 (3) (2024). doi:10.54203/scil.2024.wvj52.
