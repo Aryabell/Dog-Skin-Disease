@@ -10,11 +10,14 @@ This work supports accessible and automated veterinary dermatology diagnostics, 
 The dataset was collected from multiple public sources including Kaggle and Roboflow Universe.
 
 PRIMARY DATASET SOURCES :
+
 Kaggle :
+
 https://www.kaggle.com/datasets/youssefmohmmed/dogs-skin-diseases-image-dataset
 https://www.kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset
 
 Roboflow Universe :
+
 https://universe.roboflow.com/dog-skin-disease-dermatosis/dog-skin-disease-dataset
 https://universe.roboflow.com/kaivlya/animal-skin-disease-vb2io
 
