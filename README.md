@@ -124,6 +124,7 @@ Final test accuracy:
 <br>
 
 **USAGE INSTRUCTIONS :**
+
 Step 1 — Ringworm Segmentation
 
 Open:
