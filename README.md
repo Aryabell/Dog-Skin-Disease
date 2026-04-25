@@ -1,10 +1,12 @@
 **TITLE : Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics**
 
+
 **DESCRIPTION :**
 This repository contains the complete implementation of a deep learning pipeline for detecting six types of canine skin diseases using image-based classification.
 The proposed framework combines Transfer Learning using Convolutional Neural Networks (CNN), Image Segmentation using Attention U-Net, Ensemble Learning using Stacking, and Explainability using Grad-CAM.
 The pipeline is designed to produce a veterinary diagnostic support system that is accurate, scalable, reproducible, and clinically interpretable.
 This work supports accessible and automated veterinary dermatology diagnostics, especially for environments with limited access to veterinary specialists.
+
 
 **DATASET INFORMATION :**
 The dataset was collected from multiple public sources including Kaggle and Roboflow Universe.
@@ -51,6 +53,7 @@ Data Processing Summary
   Validation Set: 15%
   Testing Set: 15%
 
+
 **CODE INFORMATION :**
 
 This repository contains two main notebooks:
@@ -63,7 +66,9 @@ Purpose :
 Ringworm was selected because preliminary experiments showed it had the lowest classification accuracy due to subtle lesion visibility, high background dominance, inconsistent lesion appearance, and strong intra-class variability.
 
 INPUT DATASET (SEGMENTATION) :
+
 Use only the Ringworm folder from the raw dataset:
+
 https://drive.google.com/drive/folders/1Yx9Q53DPpq9qDSJFPgDQ2xX2B-di9XjS?usp=sharing
 
 Output :
@@ -84,7 +89,9 @@ Confusion matrix generation
 Grad-CAM explainability
 
 INPUT DATASET (FOR TRAINING MODELS)
+
 Use the final combined dataset:
+
 https://drive.google.com/drive/folders/1DkTKkC-1n2C0c5hb0Bm0hILIqvz6JbKl?usp=sharing
 
 Models Used :
@@ -104,6 +111,7 @@ Stacking Ensemble Learning
 
 Final test accuracy:
 91.0%
+
 
 **USAGE INSTRUCTIONS :**
 Step 1 — Ringworm Segmentation
@@ -179,6 +187,7 @@ pip install kaggle
 
 pip install roboflow
 
+
 **METHODOLOGY :**
 
 This study follows a structured Machine Learning Model Pipeline consisting of six major stages.
@@ -209,6 +218,7 @@ This study follows a structured Machine Learning Model Pipeline consisting of si
    - Interpret Grad-CAM results to confirm focus on disease areas
 
 This methodology ensures robust, explainable, and clinically meaningful predictions for veterinary diagnostics.
+
 
 **CITATIONS :**
 
