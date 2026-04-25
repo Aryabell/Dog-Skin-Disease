@@ -1,11 +1,13 @@
 **TITLE : Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics**
 
-\n
+
+
 **DESCRIPTION :**
 This repository contains the complete implementation of a deep learning pipeline for detecting six types of canine skin diseases using image-based classification.
 The proposed framework combines Transfer Learning using Convolutional Neural Networks (CNN), Image Segmentation using Attention U-Net, Ensemble Learning using Stacking, and Explainability using Grad-CAM.
 The pipeline is designed to produce a veterinary diagnostic support system that is accurate, scalable, reproducible, and clinically interpretable.
 This work supports accessible and automated veterinary dermatology diagnostics, especially for environments with limited access to veterinary specialists.
+
 
 
 **DATASET INFORMATION :**
@@ -52,6 +54,7 @@ Data Processing Summary
   Training Set: 70%
   Validation Set: 15%
   Testing Set: 15%
+
 
 
 **CODE INFORMATION :**
@@ -111,6 +114,7 @@ Stacking Ensemble Learning
 
 Final test accuracy:
 91.0%
+
 
 
 **USAGE INSTRUCTIONS :**
@@ -218,6 +222,7 @@ This study follows a structured Machine Learning Model Pipeline consisting of si
    - Interpret Grad-CAM results to confirm focus on disease areas
 
 This methodology ensures robust, explainable, and clinically meaningful predictions for veterinary diagnostics.
+
 
 
 **CITATIONS :**
