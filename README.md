@@ -1,7 +1,6 @@
 **TITLE : Deep Learning-Based Detection of Canine Skin Diseases: Towards Accessible and Scalable Veterinary Diagnostics**
 
 <br>
-<br>
 
 **DESCRIPTION :**
 This repository contains the complete implementation of a deep learning pipeline for detecting six types of canine skin diseases using image-based classification.
@@ -12,6 +11,7 @@ This work supports accessible and automated veterinary dermatology diagnostics, 
 
 <br>
 <br>
+
 **DATASET INFORMATION :**
 The dataset was collected from multiple public sources including Kaggle and Roboflow Universe.
 
