@@ -144,19 +144,33 @@ Recommended environment:
 - Jupyter Notebook / Google Colab
 
 Required Libraries :
+
 pip install tensorflow
+
 pip install keras
+
 pip install numpy
+
 pip install pandas
+
 pip install matplotlib
+
 pip install seaborn
+
 pip install scikit-learn
+
 pip install opencv-python
+
 pip install pillow
+
 pip install albumentations
+
 pip install segmentation-models
+
 pip install efficientnet
+
 pip install grad-cam
+
 pip install tqdm
 
 Optional:
